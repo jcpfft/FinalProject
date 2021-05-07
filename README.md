@@ -11,8 +11,8 @@ _Target Audience: For anyone looking to learn more about Digital Audio_
 
 [What is Digital Audio?](DigitalAudio.md)
 
-[What is Sample Rate?]()
+[What is Sample Rate?](SampleRate.md)
 
-[What is Bit Depth?]()
+[What is Bit Depth?](BitDepth.md)
 
-[What is Encoding?]()
+[What is Encoding?](Encoding.md)
