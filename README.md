@@ -7,4 +7,8 @@
 _Target Audience: For anyone looking to learn more about Digital Audio_
 
 
-[What is sound?](Sound.md)
+[What is Sound?](Sound.md)
+[What is Digital Audio?](DigitalAudio.md)
+[What is Sample Rate?]()
+[What is Bit Depth?]()
+[What is Encoding?]()
